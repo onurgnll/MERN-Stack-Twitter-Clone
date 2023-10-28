@@ -1,0 +1,27 @@
+.tweeet{
+    color: white;
+    max-width: 100%;
+}
+
+.contentt{
+    
+    width: 100% !important;
+    word-wrap: break-word;
+    white-space: normal;
+    border-bottom: 1px solid gray;
+    padding-bottom: 1rem;
+}
+
+
+.pl-3 {
+    padding-left: 3rem;
+}
+.pr-3 {
+    padding-right: 3rem;
+}
+.pl-2 {
+    padding-left: 2rem;
+}
+.pl-1{
+    padding-left: 1rem;
+}

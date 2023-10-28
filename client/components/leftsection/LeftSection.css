@@ -1,0 +1,116 @@
+.leftbar{
+    margin-left: 5rem !important;
+    margin-top: 3rem;
+}
+.bbbbb{
+    font-size:x-large;
+    text-decoration: none;
+    color: white !important;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    width: 85%;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 30px;
+    padding-left: 9px;
+
+}
+.MuiPaper-root{
+    background-color: black !important;
+    border: 1px solid gray;
+    padding: 0.2rem;
+    color: gray !important;
+    box-shadow: 0 0 5px 0.01px #fff !important;
+}
+.MuiButtonBase-root{
+    background-color: black !important;
+    border: none !important;
+    padding: 0.2rem;
+    color: white !important;
+    transition: 0.3s;
+}
+.MuiButtonBase-root:hover{
+    background-color: gray !important;
+    color: white !important;
+    
+}
+
+.bbbbb:hover{
+    text-decoration: none !important;
+    transition: 0.3s;
+    background-color: rgb(46, 46, 46);
+}
+ul{
+    list-style: none;
+    padding-left: 0 !important;
+}
+
+.tweetbutton{
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    background-color: #1D9BF0;
+}
+
+.tweetbutton:hover{
+    background-color: rgb(50, 50, 50);
+}
+
+.name{
+    font-weight: bold;
+}
+
+.username{
+    color: gray;
+}
+.anannn{
+    margin-right: 0.6rem;
+}
+
+.anana{
+    border-top: 1px solid gray;
+}
+
+.aaaa{
+    width: 65%;
+    border-radius: 30px;
+    padding-top: 5px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.aaaa:hover{
+    background-color: rgb(46, 46, 46);
+    
+}
+
+.ustt{
+    margin-bottom: 1rem;
+    height: 10rem;
+    background-color: black;
+}
+
+.ustsag{
+    margin-left: 1rem;
+    width: 23rem;
+    height: 8rem;
+    
+    background-color: black;
+}
+
+.texx{
+    height: 7rem;
+    margin-top: 1rem;
+}
+.altt{
+    border-top: 1px solid gray;
+    padding-top: 1rem;
+    color: white;
+    background-color: black;
+}
+
+.dialogg{
+    background-color: black;
+    z-index: 9999999 !important;
+}

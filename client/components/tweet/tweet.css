@@ -1,0 +1,103 @@
+/* .tweet{
+    color: white;
+    border-top: 1px solid gray;
+    padding: 1rem;
+    padding-bottom: 0.8rem;
+    width: 100%;
+    box-sizing: border-box !important;
+}
+
+.isim{
+    margin-left: 1rem;
+    font-weight: bold;
+}
+.solgun1{
+    margin-left: 0.5rem;
+    color: gray;
+    font-weight: normal;
+}
+
+.tweetcontent{
+    margin-left: 1rem;
+    
+    word-wrap: break-word;
+}
+
+
+
+*/
+.sag{
+    margin-left: 0.2rem;
+}
+.icon{
+    cursor: pointer;
+}
+
+.footersec{
+    margin-top: 0.6rem;
+    display: flex;
+    justify-content: space-around;
+    color: gray;
+    font-size: small;
+    padding-top: 8px;
+    margin-bottom: 0.7rem;
+}
+a{
+    color: #1D9BF0 !important;
+    cursor: pointer;
+}
+
+a:hover{
+    text-decoration: underline !important;
+}
+.icon:hover{
+    color: #1D9BF0;
+} 
+
+.asdasd{
+    border-bottom: 1px solid gray;
+}
+
+.tweet{
+    color: white;
+    margin-top: 1rem;
+    width: 100%;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+
+}
+.aaaaa{
+    width: calc(100% - 3rem);
+}
+.tweetcontent{
+    width: 100% !important;
+    word-wrap: break-word;
+    white-space: normal;
+}
+.isim{
+    font-weight: bold;
+}
+
+.solgun{
+    color: gray;
+
+}
+.aaaaaa{
+    padding: 0px !important;
+}
+
+.pl-1{
+    padding-left: 0.5rem;
+}
+
+.cp{
+    cursor: pointer;
+}
+
+.trendli{
+    color: #2BA5DA;
+    cursor: pointer;
+}
+.trendli:hover{
+    text-decoration: underline;
+}

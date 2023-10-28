@@ -1,0 +1,17 @@
+.notification{
+    color: white;
+    font-size: larger;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.notification:hover{
+    background-color: rgb(58, 58, 58);
+    cursor:default;
+}
+
+.notifcontent{
+    margin-left: 0.5rem;
+}

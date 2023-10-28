@@ -1,0 +1,9 @@
+.asfff{
+    width: 90% !important;
+    justify-self: end;
+    align-self: flex-end;
+}
+
+.isimprofile:hover{
+    text-decoration: underline;
+}
